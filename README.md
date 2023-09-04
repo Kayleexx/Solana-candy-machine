@@ -5,6 +5,10 @@ This project is a Candy Machine minting site that allows users to mint NFTs by p
 
 ## Getting Started
 
+![App Screenshot](https://i.imgur.com/4h6UfUn.png)
+
+![App Screenshot](https://i.imgur.com/vI2fio5.jpg)
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
